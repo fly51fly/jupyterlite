@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-05T11:53:50.104310Z",
+      "format": null,
+      "last_modified": "2022-07-05T11:52:38.111783Z",
+      "mimetype": null,
+      "name": "0_tutorial.ipynb",
+      "path": "pyolite/pyb2d/0_tutorial.ipynb",
+      "size": 18685,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-05T11:53:50.108310Z",
+      "format": null,
+      "last_modified": "2022-07-05T11:52:38.111783Z",
+      "mimetype": null,
+      "name": "newtons_cradle.ipynb",
+      "path": "pyolite/pyb2d/newtons_cradle.ipynb",
+      "size": 3704,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-05T11:53:50.104310Z",
+      "format": null,
+      "last_modified": "2022-07-05T11:52:38.111783Z",
+      "mimetype": null,
+      "name": "color_mixing.ipynb",
+      "path": "pyolite/pyb2d/color_mixing.ipynb",
+      "size": 3737,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-05T11:53:50.108310Z",
+      "format": null,
+      "last_modified": "2022-07-05T11:52:38.111783Z",
+      "mimetype": null,
+      "name": "gauss_machine.ipynb",
+      "path": "pyolite/pyb2d/gauss_machine.ipynb",
+      "size": 4118,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-05T11:53:50.108310Z",
+      "format": null,
+      "last_modified": "2022-07-05T11:53:50.108310Z",
+      "mimetype": null,
+      "name": "games",
+      "path": "pyolite/pyb2d/games",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-05T11:53:50.108310Z",
+  "format": "json",
+  "last_modified": "2022-07-05T11:53:50.108310Z",
+  "mimetype": null,
+  "name": "pyb2d",
+  "path": "pyolite/pyb2d",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
